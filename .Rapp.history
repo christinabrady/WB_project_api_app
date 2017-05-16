@@ -1,0 +1,10 @@
+setwd("~/Documents/World Bank/api_presentation/")
+source("api_scraper.R")
+source("api_scraper.R")
+pullApi("P124109")
+source("api_scraper.R")
+pullApi("P124109")
+source("api_scraper.R")
+pullApi("P124109")
+traceback
+traceback()
